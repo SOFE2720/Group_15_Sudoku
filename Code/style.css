@@ -126,6 +126,7 @@ html body #main__container #header__controls #header__submit {
   font-family: "Poppins";
 }
 
+
 html body #main__container #header__controls #header__submit span {
   border: 1px solid black;
   padding: 5px 8px;
@@ -471,9 +472,16 @@ html body #home #start:active {
 
 
 .instructions {
+
  border-style:solid;
  border-color:#000000;
- font-family: 'Times New Roman', Times, serif;
+ font-family: 'poppins';
  font-size: 16px;
+ font-weight: bold;
+ left: 50px;
+ position: relative;
+ padding: 5px;
+ color: black;
+ 
 }
 
